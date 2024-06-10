@@ -1,3 +1,5 @@
+![Total Download](https://img.shields.io/github/downloads/histoires-pour-tous/les-ptits-futes-quiz-les-animaux-de-la-ferme/total.svg)
+
 # [5+] Les P'tits Futés - Le quiz des animaux de la ferme (FR)
 
 Le quiz des P'tits Futés pour découvrir tout en s'amusant les animaux de la ferme en 123 questions.
